@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and work on data.\
-🎓 &nbsp;I'm currently studying Computer Science at the SRM University.\
-🌱 &nbsp;I'm on track for building my portfolio as a Data Analyst.\
+🎓 &nbsp;I'm currently studying Management Sciences as a Graduate Student at University of Waterloo.\
+🌱 &nbsp;I'm on track for building my portfolio in the field of Analytics,Management and Supply Chain.\
 ✍️ &nbsp;In my free time, I explore new technologies and stuff as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at a3sapra@uwaterloo.ca! I'll try to respond as soon as I can.\
