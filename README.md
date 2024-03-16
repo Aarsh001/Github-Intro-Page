@@ -10,7 +10,6 @@
 ✍️ &nbsp;In my free time, I explore new technologies and stuff as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at a3sapra@uwaterloo.ca! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1Ohy8rzRglLTw58HtfjuQZTIXAl2eqUa2/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" align="right"/>
 
