@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for building my portfolio in the field of Analytics,Management and Supply Chain.\
 ✍️ &nbsp;In my free time, I explore new technologies and stuff as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at a3sapra@uwaterloo.ca! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at a3sapra@uwaterloo.ca! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" align="right"/>
 
